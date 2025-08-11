@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FlipRoll</string>
+    <string name = "roll">Roll Dice</string>
+    <string name = "toss">Toss Coin</string>
+    <string name = "roll_dice">Roll a Dice</string>
+    <string name = "toss_coin">Toss a Coin</string>
+</resources>
